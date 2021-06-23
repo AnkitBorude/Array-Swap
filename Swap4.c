@@ -2,7 +2,7 @@
 #include<stdio.h>
 int swap(int i, int j);
 int check_for_present(int x);
-int arr[5]={4,5,3,2,7};
+int arr[5]={4,5,3,2,7};//demo array
 int *ptr=arr;
 int main()
 {
